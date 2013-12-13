@@ -5,7 +5,7 @@ Install elasticsearch
 
 You should have java installed. This is the only dependency you need to run es !
 
-  apt-get install openjdk-6-jre-headless -y
+    apt-get install openjdk-6-jre-headless -y
 
 ## Get the latest stable archive
 
