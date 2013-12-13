@@ -35,7 +35,7 @@ This will run elasticsearch on foreground.
     [2013-12-13 15:45:31,596][INFO ][node                     ] [Bridge, George Washington] started
     [2013-12-13 15:45:31,629][INFO ][gateway                  ] [Bridge, George Washington] recovered [0] indices into cluster_state
     
-  # Ping es in another term
+  ## Ping es in another term
 
     ➜  ~  curl http://127.0.0.1:9200
     {
